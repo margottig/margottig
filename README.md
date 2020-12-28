@@ -1,16 +1,44 @@
-### Hi there 👋
+### 👋 
+
+Hi, I'm Marcelo, an acoustic engineer from Ecuador. 
+
+I'm interested in data science, software engineering, and (most recently) material science. I studied physics (B.Sc.).
+
+**NEW:** I'm looking for jobs at Data Analysis startups (fulltime or freelance). 
 
 <!--
-**margottig/margottig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[👔 LinkedIn](www.linkedin.com/in/margottig) • [📚 Wordpress](https://sullakta.wordpress.com/)
+-->
 
-Here are some ideas to get you started:
+### 🤖 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👔 Connect on [LinkedIn](www.linkedin.com/in/margottig)
+- 📚 Read my thoughts on [Wordpress](https://sullakta.wordpress.com/)
+
+### 🧙 What I work on
+
+Read here: ...
+
+<!--
+Explore some recent projects:
+
+<details>
+  <summary>Sample Project</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+<details>
+  <summary>Another project</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 -->
