@@ -2,7 +2,7 @@
 
 Hi, I'm Marcelo, an acoustic engineer from Ecuador. 
 
-I'm interested in data science, software engineering, and (most recently) material science. I studied physics (B.Sc.).
+I'm interested in data science, software engineering, and (most recently) material science.
 
 **NEW:** I'm looking for jobs at Data Analysis (fulltime or freelance). 
 
