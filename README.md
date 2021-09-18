@@ -18,7 +18,7 @@ I'm interested in data science, software engineering, and (most recently) materi
 
 ### 🧙 What I work on
 
-Read here: ツ rock -n code
+Read here: ツ
 
 <!--
 Explore some recent projects:
