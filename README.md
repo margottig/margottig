@@ -12,13 +12,13 @@ I'm interested in data science, software engineering, and (most recently) materi
 
 ### 🤖 How to reach me
 
-- 👔 Connect on [linkedIn](www.linkedin.com/in/margottig)
+- 👔 Connect on [linkedIn](https://www.linkedin.com/in/margottig/)
 - 🎧 Listen my concrete music on [soundcloud](https://soundcloud.com/sullakta)
 - 📚 Read my thoughts on [wordpress](https://sullakta.wordpress.com/)
 
 ### 🧙 What I work on
 
-Read here: ツ 
+Read here: ツ rock -n code
 
 <!--
 Explore some recent projects:
