@@ -2,9 +2,7 @@
 
 Hi, I'm Marcelo, an acoustic engineer from Ecuador. 
 
-I'm interested in data science, software engineering, and (most recently) material science.
-
-**NEW:** I'm looking for jobs at Full-Stack Web Development and Data Analysis (fulltime or freelance). 
+I'm interested in data science, software engineering, psychoacoustics and material science.
 
 <!--
 [👔 LinkedIn](www.linkedin.com/in/margottig) • [📚 Wordpress](https://sullakta.wordpress.com/)
