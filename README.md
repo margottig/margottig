@@ -2,7 +2,7 @@
 
 Hi, I'm Marcelo, an acoustic engineer from Ecuador. 
 
-I'm interested in data science, software engineering, psychoacoustics and material science.
+I'm interested in data science, software engineering and psychoacoustics.
 
 <!--
 [👔 LinkedIn](www.linkedin.com/in/margottig) • [📚 Wordpress](https://sullakta.wordpress.com/)
