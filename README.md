@@ -2,7 +2,7 @@
 
 Hi, I'm Marcelo, an acoustic engineer from Ecuador. 
 
-I'm interested in data science, software engineering and audio analysis.
+I'm interested in data science, software engineering and signal processing.
 
 <!--
 [👔 LinkedIn](www.linkedin.com/in/margottig) • [📚 Wordpress](https://sullakta.wordpress.com/)
@@ -14,7 +14,7 @@ I'm interested in data science, software engineering and audio analysis.
 - 🎧 Listen my concrete music on [soundcloud](https://soundcloud.com/sullakta)
 - 📚 Read my thoughts on [wordpress](https://sullakta.wordpress.com/)
 
-
+<!--
 ### 🚴‍♂️ Skills
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -34,9 +34,9 @@ I'm interested in data science, software engineering and audio analysis.
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 </p>
+-->
 
-
-### 🧙 What I work on
+### 🧙 What I work on 🚴‍♂️
 
 Read here: ツ
 
